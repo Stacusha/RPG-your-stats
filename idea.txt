@@ -1,0 +1,1 @@
+each stat gain it's one experience, and there is the main level of each pawn who give a +1 exp to all stat

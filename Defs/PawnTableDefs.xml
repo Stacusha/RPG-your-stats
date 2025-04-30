@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <PawnTableDef>
+        <defName>RPG_MainTable</defName>
+        <label>Colonists</label>
+        <workType>RPG.PawnTable_LevelMain</workType>
+        <columns>
+            <li>Label</li>
+            <li>Level</li>
